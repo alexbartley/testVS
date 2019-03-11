@@ -1,0 +1,3 @@
+CREATE SCHEMA [Octopus]
+AUTHORIZATION [dbo]
+GO
